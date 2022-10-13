@@ -1,0 +1,12 @@
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\bin\Debug\net6.0\LearningCenter.Share.deps.json
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\bin\Debug\net6.0\LearningCenter.Share.dll
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\bin\Debug\net6.0\LearningCenter.Share.pdb
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.csproj.AssemblyReference.cache
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.AssemblyInfoInputs.cache
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.AssemblyInfo.cs
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.csproj.CoreCompileInputs.cache
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.dll
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\refint\LearningCenter.Share.dll
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\LearningCenter.Share.pdb
+C:\Users\axekr\OneDrive\Escritorio\BACKEND_APPS_WEBS\SEMANA9\LearningCenter\LearningCenter.Share\obj\Debug\net6.0\ref\LearningCenter.Share.dll
