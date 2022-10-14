@@ -9,11 +9,11 @@ public class CategoryDomain : ICategoryService
 
     public string getCategoryById(int id)
     {
-        return "body from Domain"+id.ToString();
+        return "body from Domain v2"+id.ToString();
     }
 
-    public bool createCategory(string name)
+    public String createCategory(string name)
     {
-        throw new NotImplementedException();
+        return "Se creó una categoría";
     }
 }
